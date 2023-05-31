@@ -1,0 +1,126 @@
+﻿<Window x:Class="ButcherShopOrderForms.SettingsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ButcherShopOrderForms"
+        mc:Ignorable="d"
+        Title="Настройки приложения" Height="430" Width="800" 
+        ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Style x:Key="DefaultButtonStyle" TargetType="Button">
+            <Setter Property="Width" Value="32"/>
+            <Setter Property="HorizontalAlignment" Value="Right"/>
+            <Setter Property="VerticalAlignment" Value="Stretch"/>
+            <Setter Property="Margin" Value="5 0 0 0"/>
+        </Style>
+
+        <Style x:Key="PathTextBoxStyle" TargetType="TextBox">
+            <Setter Property="HorizontalAlignment" Value="Stretch"/>
+            <Setter Property="VerticalAlignment" Value="Stretch"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Padding" Value="5 0 5 0"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid Margin="10" FocusManager.FocusedElement="{Binding ElementName=keyShopTextBox}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+        <!--Код магазина-->
+        <Label Grid.Row="0" Grid.Column="0" Content="Код магазина:" 
+               VerticalContentAlignment="Center" FontSize="14"/>
+        <TextBox Grid.Row="0" Grid.Column="1" x:Name="keyShopTextBox" MaxLength="11" ToolTip="Код магазина в системе 1С:Розница"
+                 Width="100" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="14"/>
+
+        <!--#region TemplateBlankPath-->
+
+        <Label Grid.Row="1" Grid.ColumnSpan="4" Content="Пути шаблонов бланков" 
+               FontSize="14" FontWeight="Bold" Margin="10 5 10 0"/>
+
+        <!--Путь файла шаблона-->
+        <Label Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="3" Content="Путь шаблона:" 
+               VerticalContentAlignment="Center"/>
+        <TextBox Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2" x:Name="blankTemplatePath"
+                 Style="{StaticResource PathTextBoxStyle}"/>
+        <Button Grid.Row="3" Grid.Column="3" x:Name="blankPathButton" ToolTip="Выбрать файл шаблона заявок"
+                Style="{StaticResource DefaultButtonStyle}" Click="blankPathButton_Click">
+            <Button.Content>
+                <Image Source="/Images/folder_file_icon_191630.png"/>
+            </Button.Content>
+        </Button>
+
+        <!--Путь файла шаблона возврата-->
+        <Label Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="3" Content="Путь шаблона (возврат):" 
+               VerticalContentAlignment="Center"/>
+        <TextBox Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="2" x:Name="returnBlankTemplatePath"
+                 Style="{StaticResource PathTextBoxStyle}"/>
+        <Button Grid.Row="5" Grid.Column="3" x:Name="returnBlankPathButton" ToolTip="Выбрать файл шаблона заявок на возврат"
+                Style="{StaticResource DefaultButtonStyle}" Click="returnBlankPathButton_Click">
+            <Button.Content>
+                <Image Source="/Images/folder_file_icon_191630.png"/>
+            </Button.Content>
+        </Button>
+
+        <!--#endregion-->
+
+        <!--#region SaveBlankPath-->
+
+        <Label Grid.Row="6" Grid.ColumnSpan="4" Content="Пути сохранения бланков" 
+               FontSize="14" FontWeight="Bold" Margin="10 5 10 0"/>
+
+        <!--Служебный путь сохранения бланка-->
+        <Label Grid.Row="7" Grid.Column="1" Grid.ColumnSpan="3" Content="Служебный путь сохранения:" 
+               VerticalContentAlignment="Center"/>
+        <TextBox Grid.Row="8" Grid.Column="1" Grid.ColumnSpan="2" x:Name="serviceBlankSavePath"
+                 Style="{StaticResource PathTextBoxStyle}"/>
+        <Button Grid.Row="8" Grid.Column="3" x:Name="serviceBlankPathButton" ToolTip="Выбрать служебный путь сохранения заявок"
+                Style="{StaticResource DefaultButtonStyle}" Click="serviceBlankPathButton_Click">
+            <Button.Content>
+                <Image Source="/Images/folder_file_icon_191630.png"/>
+            </Button.Content>
+        </Button>
+
+        <!--Пользовательский путь сохранения бланка-->
+        <Label Grid.Row="9" Grid.Column="1" Grid.ColumnSpan="3" Content="Пользовательский путь сохранения:" 
+               VerticalContentAlignment="Center"/>
+        <TextBox Grid.Row="10" Grid.Column="1" Grid.ColumnSpan="2" x:Name="userBlankSavePath"
+                 Style="{StaticResource PathTextBoxStyle}"/>
+        <Button Grid.Row="10" Grid.Column="3" x:Name="userBlankPathButton" ToolTip="Выбрать пользовательский путь сохранения заявок"
+                Style="{StaticResource DefaultButtonStyle}" Click="userBlankPathButton_Click">
+            <Button.Content>
+                <Image Source="/Images/folder_file_icon_191630.png"/>
+            </Button.Content>
+        </Button>
+
+        <!--#endregion-->
+
+        <!--Командная панель-->
+        <Button Grid.Row="11" Grid.Column="4" x:Name="saveSettingsButton" ToolTip="Сохранить настройки"
+                Style="{StaticResource DefaultButtonStyle}" FontWeight="Bold" Margin="0 10 0 0"
+                Click="saveSettingsButton_Click">
+            <Button.Content>
+                <Image Source="/Images/approve_check_approved_accept_checklist_icon_197529.png" />
+            </Button.Content>
+        </Button>
+    </Grid>
+</Window>
