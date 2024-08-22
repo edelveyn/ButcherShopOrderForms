@@ -1,0 +1,1143 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<template>
+	<category id="f75d2d3b-2056-11ec-80c6-000c29c303e4" name="ПФ из свинины">
+		<product>
+			<id>6df86eb0-1ac5-11ec-80c6-000c29c303e4</id>
+			<name>Баки в шкуре (свинина), кг</name>
+		</product>
+		<product>
+			<id>8a4ac192-1ac5-11ec-80c6-000c29c303e4</id>
+			<name>Вырезка б/к (свинина), кг</name>
+		</product>
+		<product>
+			<id>a1cc7404-1ac5-11ec-80c6-000c29c303e4</id>
+			<name>Гуляш (свинина), кг</name>
+		</product>
+		<product>
+			<id>a7d0a40f-1ac5-11ec-80c6-000c29c303e4</id>
+			<name>Жилки свиные, кг</name>
+		</product>
+		<product>
+			<id>c047e8f0-1ac5-11ec-80c6-000c29c303e4</id>
+			<name>Кость свиная (сырая), кг</name>
+		</product>
+		<product>
+			<id>d0de27e0-1ac5-11ec-80c6-000c29c303e4</id>
+			<name>Набор для шурпы (свинина), кг</name>
+		</product>
+		<product>
+			<id>026c6e95-1ac6-11ec-80c6-000c29c303e4</id>
+			<name>Окорок б/к (свинина), кг</name>
+		</product>
+		<product>
+			<id>1c65f0ca-1ac6-11ec-80c6-000c29c303e4</id>
+			<name>Поджарка (свинина), кг</name>
+		</product>
+		<product>
+			<id>23457943-1ac6-11ec-80c6-000c29c303e4</id>
+			<name>Ребра (свинина), кг</name>
+		</product>
+		<product>
+			<id>353ef61e-1ac6-11ec-80c6-000c29c303e4</id>
+			<name>Ребра мясные (свинина), кг</name>
+		</product>
+		<product>
+			<id>41402ed8-1ac6-11ec-80c6-000c29c303e4</id>
+			<name>Рулька м/к (свинина), кг</name>
+		</product>
+		<product>
+			<id>4fb6d548-1ac6-11ec-80c6-000c29c303e4</id>
+			<name>Суповой набор (свинина), кг</name>
+		</product>
+		<product>
+			<id>7c50b87d-1ac6-11ec-80c6-000c29c303e4</id>
+			<name>Филей б/к (свинина), кг</name>
+		</product>
+		<product>
+			<id>98926b9e-1ac6-11ec-80c6-000c29c303e4</id>
+			<name>Шейный балык (свинина), кг</name>
+		</product>
+		<product>
+			<id>ac9bb988-847e-11ee-80d5-000c29c303e4</id>
+			<name>Грудинка м/к (свинина), кг</name>
+		</product>
+		<product>
+			<id>a2323334-847e-11ee-80d5-000c29c303e4</id>
+			<name>Корейка м/к (свинина), кг</name>
+		</product>
+	</category>
+	<category id="1cc067e7-0af9-11ec-9678-7412b32bf7ea" name="Субпродукты из свинины">
+		<product>
+			<id>52c8a79e-1ac7-11ec-80c6-000c29c303e4</id>
+			<name>Голова свиная, кг</name>
+		</product>
+		<product>
+			<id>60403a35-1ac7-11ec-80c6-000c29c303e4</id>
+			<name>Диафрагма свиная, кг</name>
+		</product>
+		<product>
+			<id>85d9349f-1ac7-11ec-80c6-000c29c303e4</id>
+			<name>Желудок свиной, кг</name>
+		</product>
+		<product>
+			<id>97f674f9-1ac7-11ec-80c6-000c29c303e4</id>
+			<name>Калтык свиной, кг</name>
+		</product>
+		<product>
+			<id>9fc92d2b-1ac7-11ec-80c6-000c29c303e4</id>
+			<name>Легкое свиное, кг</name>
+		</product>
+		<product>
+			<id>9c811331-21d1-11ec-80c6-000c29c303e4</id>
+			<name>Ножки ЗАДНИЕ ОХЛАЖДЕННЫЕ, кг</name>
+		</product>
+		<product>
+			<id>a9955893-1ac7-11ec-80c6-000c29c303e4</id>
+			<name>Ножки ПЕРЕДНИЕ ОХЛАЖДЕННЫЕ, кг</name>
+		</product>
+		<product>
+			<id>b0c85343-1ac7-11ec-80c6-000c29c303e4</id>
+			<name>Печень свиная, кг</name>
+		</product>
+		<product>
+			<id>b705bb98-1ac7-11ec-80c6-000c29c303e4</id>
+			<name>Почки свиные, кг</name>
+		</product>
+		<product>
+			<id>b705bb99-1ac7-11ec-80c6-000c29c303e4</id>
+			<name>Сердце свиное, кг</name>
+		</product>
+		<product>
+			<id>bd399aae-1ac7-11ec-80c6-000c29c303e4</id>
+			<name>Уши свиные, кг</name>
+		</product>
+		<product>
+			<id>c60b6eae-1ac7-11ec-80c6-000c29c303e4</id>
+			<name>Хвост свиной, кг</name>
+		</product>
+		<product>
+			<id>e178dfd4-1ac7-11ec-80c6-000c29c303e4</id>
+			<name>Язык свиной, кг</name>
+		</product>
+		<product>
+			<id>d1b85936-1ac8-11ec-80c6-000c29c303e4</id>
+			<name>Селезенка свиная, кг</name>
+		</product>
+		<product>
+			<id>dbeb09a2-1ac8-11ec-80c6-000c29c303e4</id>
+			<name>Трахея свиная, кг</name>
+		</product>
+	</category>
+	<category id="8d4df843-2056-11ec-80c6-000c29c303e4" name="Колбаса">
+		<product>
+			<id>58a201a2-510f-11ed-80d1-000c29c303e4</id>
+			<name>Сальтисон Домашний 0,7кг, шт</name>
+		</product>
+		<product>
+			<id>bb9ca809-9e29-11ed-80d3-000c29c303e4</id>
+			<name>Сальтисон "Домашний с корнишонами" 0,7 кг, шт</name>
+		</product>
+		<product>
+			<id>69eb2d65-a391-11ec-80cd-000c29c303e4</id>
+			<name>Ветчина "К завтраку" 0,4кг, шт</name>
+		</product>
+		<product>
+			<id>af19b0ba-3663-11ec-80c7-000c29c303e4</id>
+			<name>Ветчина "Свиная люкс" 0,5 кг, шт</name>
+		</product>
+		<product>
+			<id>fd18d4b5-17a3-11ec-80c6-000c29c303e4</id>
+			<name>Ветчина "Свиная люкс", кг</name>
+		</product>
+		<product>
+			<id>ef7d4a24-51ea-11ec-80c7-000c29c303e4</id>
+			<name>Колбаса вар. "С молоком" 0,4кг, шт</name>
+		</product>
+		<product>
+			<id>37362c7d-17a4-11ec-80c6-000c29c303e4</id>
+			<name>Колбаса ливерная "Печеночная" 0,35кг, шт</name>
+		</product>
+		<product>
+			<id>dc1ede58-3663-11ec-80c7-000c29c303e4</id>
+			<name>Колбаса Докторская вар.0,5 кг, шт</name>
+		</product>
+		<product>
+			<id>01a9a1c7-3664-11ec-80c7-000c29c303e4</id>
+			<name>Колбаса Любительская вар 0,5кг., шт</name>
+		</product>
+		<product>
+			<id>3c2d8960-3664-11ec-80c7-000c29c303e4</id>
+			<name>Колбаса Молочная вар 0,5кг., шт</name>
+		</product>
+		<product>
+			<id>74974bcd-17a8-11ec-80c6-000c29c303e4</id>
+			<name>Колбаса в/к "Московская" 350гр. в/у, шт</name>
+		</product>
+		<product>
+			<id>0ee65128-17a8-11ec-80c6-000c29c303e4</id>
+			<name>Колбаса в/к "Москвичка" 350гр. в/у, шт</name>
+		</product>
+		<product>
+			<id>cfcd9c5d-7f60-11ed-80d3-000c29c303e4</id>
+			<name>Колбаса в/к "Сервелат Мускатный" 350гр. в/у, шт</name>
+		</product>
+		<product>
+			<id>36149c92-e2a4-11ed-80d3-000c29c303e4</id>
+			<name>Колбаса в/к "Сервелат Финский", в/у 0,7 кг, шт</name>
+		</product>
+		<product>
+			<id>e0ea40a4-27b1-11ee-80d4-000c29c303e4</id>
+			<name>Колбаса п/к "Деревенская" 450 гр в/у, шт</name>
+		</product>
+		<product>
+			<id>210117c4-30ca-11ec-80c7-000c29c303e4</id>
+			<name>Колбаса п/к "Краковская" 450 гр, шт</name>
+		</product>
+		<product>
+			<id>45f364dc-30ca-11ec-80c7-000c29c303e4</id>
+			<name>Колбаса п/к "Станичная" 450 гр, шт</name>
+		</product>
+		<product>
+			<id>c7b32c5c-d692-11ec-80cd-000c29c303e4</id>
+			<name>Колбаса п/к "Тирольская" 700 гр в/у, шт</name>
+		</product>
+		<product>
+			<id>5fc110d2-693c-11ec-80cc-000c29c303e4</id>
+			<name>Колбаса п/к "Ямская с печенью" 350гр. в/у</name>
+		</product>
+		<product>
+			<id>2f00ea71-12f2-11ed-80ce-000c29c303e4</id>
+			<name>Колбаски п/к "Кабаносси" 0,35кг В/У, шт</name>
+		</product>
+		<product>
+			<id>a7aa84c1-27b1-11ee-80d4-000c29c303e4</id>
+			<name>Колбаски п/к Австрийские,кг</name>
+		</product>
+		<product>
+			<id>1b3df752-17b1-11ec-80c6-000c29c303e4</id>
+			<name>Колбаски п/к ветчинные Престиж, кг</name>
+		</product>
+		<product>
+			<id>3f0b15e3-51eb-11ec-80c7-000c29c303e4</id>
+			<name>Сардельки "Вкусные", кг</name>
+		</product>
+		<product>
+			<id>91b3df8d-1abd-11ec-80c6-000c29c303e4</id>
+			<name>Сардельки "Любимые" н/о, кг</name>
+		</product>
+		<product>
+			<id>cea7a6fe-5d78-11ec-80c8-000c29c303e4</id>
+			<name>Сосиски "Венские", кг</name>
+		</product>
+		<product>
+			<id>15406b61-4302-11ed-80d1-000c29c303e4</id>
+			<name>Сосиски "Домашние", кг</name>
+		</product>
+		<product>
+			<id>a76e30dd-1abd-11ec-80c6-000c29c303e4</id>
+			<name>Сосиски "Любительские", кг</name>
+		</product>
+		<product>
+			<id>b8210b64-1abd-11ec-80c6-000c29c303e4</id>
+			<name>Сосиски "Молочные", кг</name>
+		</product>
+		<product>
+			<id>941d654e-6948-11ec-80cc-000c29c303e4</id>
+			<name>Шпикачки "Чешские", кг</name>
+		</product>
+		<product>
+			<id>0822f9dc-1ac7-11ec-80c6-000c29c303e4</id>
+			<name>Шпик венгерский, кг</name>
+		</product>
+		<product>
+			<id>118b0225-1ac7-11ec-80c6-000c29c303e4</id>
+			<name>Шпик сырокопченый, кг</name>
+		</product>
+	</category>
+	<category id="980af10b-2056-11ec-80c6-000c29c303e4" name="Копчености">
+		<product>
+			<id>e69322e7-1abd-11ec-80c6-000c29c303e4</id>
+			<name>Баки свиные копченые Обуховские, кг</name>
+		</product>
+		<product>
+			<id>fbcf1739-1abd-11ec-80c6-000c29c303e4</id>
+			<name>Грудинка б/к копченая Обуховская, кг</name>
+		</product>
+		<product>
+			<id>08bebb76-1abe-11ec-80c6-000c29c303e4</id>
+			<name>Карбонад копченый Обуховский, кг</name>
+		</product>
+		<product>
+			<id>19bb7ef8-1abe-11ec-80c6-000c29c303e4</id>
+			<name>Ребра копченые Обуховские в В/У, кг</name>
+		</product>
+		<product>
+			<id>3f88ed23-1abe-11ec-80c6-000c29c303e4</id>
+			<name>Уши копченые Обуховские в В/У, кг</name>
+		</product>
+		<product>
+			<id>fa1356bf-9e2b-11ed-80d3-000c29c303e4</id>
+			<name>Ушки с пряностями свиные в/к ЛЮКС В/У, кг</name>
+		</product>
+		<product>
+			<id>807b36c5-9e29-11ed-80d3-000c29c303e4</id>
+			<name>Шпик Оригинальный с пряностями ЛЮКС, В/У, кг</name>
+		</product>
+		<product>
+			<id>78de289a-1abe-11ec-80c6-000c29c303e4</id>
+			<name>Мясо свиных голов прессованное Обуховское (2,5кг), кг</name>
+		</product>
+	</category>
+	<category id="4785f5f2-2057-11ec-80c6-000c29c303e4" name="Фарш свиной охлажденный">
+		<product>
+			<id>5e42f015-1ac6-11ec-80c6-000c29c303e4</id>
+			<name>Фарш (свинина), кг</name>
+		</product>
+		<product>
+			<id>6ebef4f3-1ac6-11ec-80c6-000c29c303e4</id>
+			<name>Фарш домашний, кг</name>
+		</product>
+	</category>
+	<category id="d4e084ab-2056-11ec-80c6-000c29c303e4" name="ПФ мясные из свинины замороженные">
+		<product>
+			<id>866ddb30-bb16-11ec-80cd-000c29c303e4</id>
+			<name>Шашлык свиной 1,5 кг В/У, шт</name>
+		</product>
+		<product>
+			<id>7fd431f5-1abf-11ec-80c6-000c29c303e4</id>
+			<name>Купаты Домашние ЗАМОРОЖЕННЫЕ, кг</name>
+		</product>
+		<product>
+			<id>8a3dcefc-1abf-11ec-80c6-000c29c303e4</id>
+			<name>Купаты Шашлычные ЗАМОРОЖЕННЫЕ, кг</name>
+		</product>
+		<product>
+			<id>df53b9ce-1ac2-11ec-80c6-000c29c303e4</id>
+			<name>Голубцы ленивые (4 кг короб), кг</name>
+		</product>
+		<product>
+			<id>e83fc731-1ac2-11ec-80c6-000c29c303e4</id>
+			<name>Котлеты "Аппетитные" (4 кг короб), кг</name>
+		</product>
+		<product>
+			<id>efcd5b75-1ac2-11ec-80c6-000c29c303e4</id>
+			<name>Котлеты "Домашние" (4 кг короб), кг</name>
+		</product>
+		<product>
+			<id>f78aa9da-1ac2-11ec-80c6-000c29c303e4</id>
+			<name>Котлеты "Ёжики" (4 кг короб), кг</name>
+		</product>
+		<product>
+			<id>ffd497ed-1ac2-11ec-80c6-000c29c303e4</id>
+			<name>Котлеты "Печеночные" (4 кг короб), кг</name>
+		</product>
+		<product>
+			<id>611fa223-2f97-11ee-80d5-000c29c303e4</id>
+			<name>Котлеты "По-Боярски" с грибами(4 кг короб), кг</name>
+		</product>
+		<product>
+			<id>4ab9a77b-2f97-11ee-80d5-000c29c303e4</id>
+			<name>Котлеты "По-Итальянски" (4 кг короб), кг</name>
+		</product>
+		<product>
+			<id>34371079-2f97-11ee-80d5-000c29c303e4</id>
+			<name>Котлеты "Сибирские" (4 кг короб), кг</name>
+		</product>
+	</category>
+	<category id="2d96bb66-0ffc-11ee-80d3-000c29c303e4" name="Заморозка Кубанский Бекон">
+		<product>
+			<id>7796ff99-1cb4-11ee-80d3-000c29c303e4</id>
+			<name>Блины с клубникой по-домашнему (конверт) КРАСНОДАР (5кг), кг</name>
+		</product>
+		<product>
+			<id>660ff34a-1cb4-11ee-80d3-000c29c303e4</id>
+			<name>Блины с мясом по-домашнему (конверт) КРАСНОДАР (5кг), кг</name>
+		</product>
+		<product>
+			<id>63ed308d-1cb6-11ee-80d3-000c29c303e4</id>
+			<name>Блины с творогом по-домашнему (конверт) КРАСНОДАР (5кг), кг</name>
+		</product>
+		<product>
+			<id>6bb503e7-1cb1-11ee-80d3-000c29c303e4</id>
+			<name>Вареники с картоф.и грибами КРАСНОДАР (5кг), кг</name>
+		</product>
+		<product>
+			<id>48a6ebd9-1cb1-11ee-80d3-000c29c303e4</id>
+			<name>Вареники с творогом сладкие КРАСНОДАР (5кг), кг</name>
+		</product>
+		<product>
+			<id>cc92c3b7-1724-11ee-80d3-000c29c303e4</id>
+			<name>Пельмени "Бутузы-карапузы" ВЕСОВЫЕ (6кг),кг</name>
+		</product>
+		<product>
+			<id>757225af-0f54-11ee-80d3-000c29c303e4</id>
+			<name>Пельмени "С мясом индейки" МИНИ (6кг/кор), кг</name>
+		</product>
+		<product>
+			<id>9bbdf07e-0f54-11ee-80d3-000c29c303e4</id>
+			<name>Пельмени "Сочные со сливками" (5кг/кор), кг</name>
+		</product>
+		<product>
+			<id>787390dd-672c-11ee-80d5-000c29c303e4</id>
+			<name>Котлеты "По-Киевски" (5кг/кор),кг</name>
+		</product>
+		<product>
+			<id>92638984-672c-11ee-80d5-000c29c303e4</id>
+			<name>Голубцы "По-домашнему"(4кг/кор),кг</name>
+		</product>
+		<product>
+			<id>aefd62f9-672c-11ee-80d5-000c29c303e4</id>
+			<name>Манты "Кавказские"(5кг/кор),кг</name>
+		</product>
+	</category>
+	<category id="c035f4d0-2056-11ec-80c6-000c29c303e4" name="Пельмени">
+		<product>
+			<id>04497743-f12f-11ec-80ce-000c29c303e4</id>
+			<name>Пельмени "Готовьешки" Премиум 700гр, шт</name>
+		</product>
+		<product>
+			<id>e2703889-1abf-11ec-80c6-000c29c303e4</id>
+			<name>Пельмени "ГотовьЕшки" (3,5 кг короб), кг</name>
+		</product>
+		<product>
+			<id>23ea2d2a-f12f-11ec-80ce-000c29c303e4</id>
+			<name>Пельмени "Фирменные" Премиум 700гр, шт</name>
+		</product>
+		<product>
+			<id>de2f5932-e173-11ec-80cd-000c29c303e4</id>
+			<name>Пельмени "Фирменные" со свининой и говядиной (3,5 кг короб)</name>
+		</product>
+	</category>
+	<category id="5223efc1-2057-11ec-80c6-000c29c303e4" name="Черева">
+		<product>
+			<id>d86b70c3-1ac7-11ec-80c6-000c29c303e4</id>
+			<name>Черева свиная фабрикат Экстра (5 метров), шт</name>
+		</product>
+	</category>
+	<category id="3261d8d8-2057-11ec-80c6-000c29c303e4" name="Сальце с чесночком">
+		<product>
+			<id>cb2e6874-1ac6-11ec-80c6-000c29c303e4</id>
+			<name>Сальце с чесночком, кг</name>
+		</product>
+	</category>
+	<category id="21d09244-21c7-11ec-80c6-000c29c303e4" name="Кул Замороженные ПФ">
+		<product>
+			<id>866ef6d9-21ce-11ec-80c6-000c29c303e4</id>
+			<name>Вареники с вишней кг.</name>
+		</product>
+		<product>
+			<id>60dc470f-21d3-11ec-80c6-000c29c303e4</id>
+			<name>Вареники с картошкой кг.</name>
+		</product>
+		<product>
+			<id>92742903-21d3-11ec-80c6-000c29c303e4</id>
+			<name>Вареники с творогом кг.</name>
+		</product>
+		<product>
+			<id>e988afaa-21d3-11ec-80c6-000c29c303e4</id>
+			<name>Котлета куриная "Нежная" п/ф зам.кг.</name>
+		</product>
+		<product>
+			<id>6faa0640-21d4-11ec-80c6-000c29c303e4</id>
+			<name>Лапша домашняя п/ф кг.</name>
+		</product>
+		<product>
+			<id>e4caccc3-21d7-11ec-80c6-000c29c303e4</id>
+			<name>Манты с бараниной кг.</name>
+		</product>
+		<product>
+			<id>28b97537-21d8-11ec-80c6-000c29c303e4</id>
+			<name>Манты с говядиной кг.</name>
+		</product>
+		<product>
+			<id>5692f9ec-21d8-11ec-80c6-000c29c303e4</id>
+			<name>Манты со свининой кг.</name>
+		</product>
+		<product>
+			<id>ce52e6b6-21d8-11ec-80c6-000c29c303e4</id>
+			<name>Пельмени "Светофор" кг.</name>
+		</product>
+		<product>
+			<id>a4aa6a82-21d8-11ec-80c6-000c29c303e4</id>
+			<name>Пельмени "Русские говяжьи" кг.</name>
+		</product>
+		<product>
+			<id>06028646-a14d-11ec-80cd-000c29c303e4</id>
+			<name>Пельмени Крестьянские кг.</name>
+		</product>
+		<product>
+			<id>2ef96e59-de80-11ed-80d3-000c29c303e4</id>
+			<name>Пельмени Сливочные кг.</name>
+		</product>
+		<product>
+			<id>3ae897bb-21d9-11ec-80c6-000c29c303e4</id>
+			<name>Пельмени "Русские свиные" кг.</name>
+		</product>
+		<product>
+			<id>6c76dfa8-21d9-11ec-80c6-000c29c303e4</id>
+			<name>Хинкали "Сочинские" кг.</name>
+		</product>
+		<product>
+			<id>89c126de-21d9-11ec-80c6-000c29c303e4</id>
+			<name>Чебуреки п/ф кг.</name>
+		</product>
+	</category>
+	<category id="3a2fff7c-21c7-11ec-80c6-000c29c303e4" name="Кул Кондитерские изделия">
+		<product>
+			<id>89cbefd8-d6a3-11ec-80cd-000c29c303e4</id>
+			<name>Ванильный десерт кг.</name>
+		</product>
+		<product>
+			<id>5f353e82-b8e1-11ed-80d3-000c29c303e4</id>
+			<name>Десерт "Вишневое настроение" кг.</name>
+		</product>
+		<product>
+			<id>010310ac-0511-11ee-80d3-000c29c303e4</id>
+			<name>Десерт "Тирамису" кг.</name>
+		</product>
+		<product>
+			<id>70794e41-21e6-11ec-80c6-000c29c303e4</id>
+			<name>Лепешка Диетическая (кулинария) кг.</name>
+		</product>
+		<product>
+			<id>97cdc023-21e6-11ec-80c6-000c29c303e4</id>
+			<name>Нан "Бухарский" 100 гр.</name>
+		</product>
+		<product>
+			<id>cc78575f-21e6-11ec-80c6-000c29c303e4</id>
+			<name>Печенье "Американка" кг.</name>
+		</product>
+		<product>
+			<id>f6fc2c17-21e6-11ec-80c6-000c29c303e4</id>
+			<name>Печенье "Гранд Каньон" кг.</name>
+		</product>
+		<product>
+			<id>32bd765b-21e7-11ec-80c6-000c29c303e4</id>
+			<name>Печенье "Курабье" кг.</name>
+		</product>
+		<product>
+			<id>6a2e8cdb-21e7-11ec-80c6-000c29c303e4</id>
+			<name>Печенье "Орешки" кг.</name>
+		</product>
+		<product>
+			<id>860760d0-21e7-11ec-80c6-000c29c303e4</id>
+			<name>Печенье овсяное кг.</name>
+		</product>
+		<product>
+			<id>d702ac78-846a-11ee-80d5-000c29c303e4</id>
+			<name>Пирожное "Желание" кг.</name>
+		</product>
+		<product>
+			<id>de493d63-21e9-11ec-80c6-000c29c303e4</id>
+			<name>Пирожное "Камелот" 100 гр.</name>
+		</product>
+		<product>
+			<id>60ff5b6d-21ea-11ec-80c6-000c29c303e4</id>
+			<name>Пирожное "Киви" 80 гр.</name>
+		</product>
+		<product>
+			<id>311752fb-2eb2-11ed-80d1-000c29c303e4</id>
+			<name>Пирожное "Павлова" кг.</name>
+		</product>
+		<product>
+			<id>b5d7af09-6b0a-11ed-80d2-000c29c303e4</id>
+			<name>Пирожное "Пенёк" кг.</name>
+		</product>
+		<product>
+			<id>90dbb69a-21ea-11ec-80c6-000c29c303e4</id>
+			<name>Пирожное "Слезы Ангела" 90 гр.</name>
+		</product>
+		<product>
+			<id>05a36f33-fad5-11ed-80d3-000c29c303e4</id>
+			<name>Пирожное "Эскимо" 65гр.</name>
+		</product>
+		<product>
+			<id>62314353-21eb-11ec-80c6-000c29c303e4</id>
+			<name>Сметанник кг.</name>
+		</product>
+		<product>
+			<id>f29f4b34-21eb-11ec-80c6-000c29c303e4</id>
+			<name>Сочник с творогом 80 гр.</name>
+		</product>
+		<product>
+			<id>7c4c2668-21eb-11ec-80c6-000c29c303e4</id>
+			<name>Сырник Голландский кг</name>
+		</product>
+		<product>
+			<id>1eaca03f-21ec-11ec-80c6-000c29c303e4</id>
+			<name>Тарт "Смородинка" 100 гр.</name>
+		</product>
+		<product>
+			<id>4b8b84e7-4670-11ee-80d5-000c29c303e4</id>
+			<name>Тарт "Сникерс" 100 гр.</name>
+		</product>
+		<product>
+			<id>45b7273b-21ec-11ec-80c6-000c29c303e4</id>
+			<name>Тарт "Шахерезада" 100гр.</name>
+		</product>
+		<product>
+			<id>a297bffa-22dd-11ed-80d0-000c29c303e4</id>
+			<name>Тарт "Фисташка" 100 гр.</name>
+		</product>
+		<product>
+			<id>2198e649-21e8-11ec-80c6-000c29c303e4</id>
+			<name>Торт "Йогуртовый" кг.</name>
+		</product>
+		<product>
+			<id>afff2d7f-21e8-11ec-80c6-000c29c303e4</id>
+			<name>Торт "Карпаты" кг.</name>
+		</product>
+		<product>
+			<id>c7e9c73a-21e8-11ec-80c6-000c29c303e4</id>
+			<name>Торт "Красный бархат" кг.</name>
+		</product>
+		<product>
+			<id>fb49a270-755e-11ed-80d3-000c29c303e4</id>
+			<name>Торт "Красный бархат"(стакан) кг.</name>
+		</product>
+		<product>
+			<id>f5ebae50-21e8-11ec-80c6-000c29c303e4</id>
+			<name>Торт "Медовый пух" кг.</name>
+		</product>
+		<product>
+			<id>05391e77-85c2-11ed-80d3-000c29c303e4</id>
+			<name>Торт "Медовик-Крем чиз" кг.</name>
+		</product>
+		<product>
+			<id>0f40adf8-21e9-11ec-80c6-000c29c303e4</id>
+			<name>Торт "Молочная девочка" кг.</name>
+		</product>
+		<product>
+			<id>c33b964f-5435-11ed-80d1-000c29c303e4</id>
+			<name>Торт "Морковный" кг.</name>
+		</product>
+		<product>
+			<id>25fa1ac0-21e9-11ec-80c6-000c29c303e4</id>
+			<name>Торт "Наполеон" кг.</name>
+		</product>
+		<product>
+			<id>66f7de71-b5bc-11ec-80cd-000c29c303e4</id>
+			<name>Торт "Панчо" кг.</name>
+		</product>
+		<product>
+			<id>2c788b1b-755f-11ed-80d3-000c29c303e4</id>
+			<name>Торт "Панчо"(стакан) кг.</name>
+		</product>
+		<product>
+			<id>3b6ce553-21e9-11ec-80c6-000c29c303e4</id>
+			<name>Торт "Подарочный" кг.</name>
+		</product>
+		<product>
+			<id>bc86925a-755e-11ed-80d3-000c29c303e4</id>
+			<name>Торт "Сникерс"(стакан) кг.</name>
+		</product>
+		<product>
+			<id>4fac2063-21e9-11ec-80c6-000c29c303e4</id>
+			<name>Торт "Три шоколада" кг.</name>
+		</product>
+		<product>
+			<id>58409fc4-755f-11ed-80d3-000c29c303e4</id>
+			<name>Торт "Три шоколада"(стакан) кг.</name>
+		</product>
+		<product>
+			<id>aa46e639-21eb-11ec-80c6-000c29c303e4</id>
+			<name>Трубочка с молоком сгущенным кг.</name>
+		</product>
+		<product>
+			<id>5c881ce4-ac42-11ec-80cd-000c29c303e4</id>
+			<name>Эклер с масляным кремом кг.</name>
+		</product>
+		<product>
+			<id>8f3223ad-ac42-11ec-80cd-000c29c303e4</id>
+			<name>Эклер с фисташковым кремом кг.</name>
+		</product>
+	</category>
+	<category id="47600331-21c7-11ec-80c6-000c29c303e4" name="Кул Хлебобулочные изд">
+		<product>
+			<id>c831bbed-21ce-11ec-80c6-000c29c303e4</id>
+			<name>Багет Провансаль 130 гр.</name>
+		</product>
+		<product>
+			<id>4a09e74e-5284-11ec-80c7-000c29c303e4</id>
+			<name>Беляш 120гр.</name>
+		</product>
+		<product>
+			<id>770cd8ef-21ed-11ec-80c6-000c29c303e4</id>
+			<name>Булочка Синнабон 150 гр.</name>
+		</product>
+		<product>
+			<id>140b266b-21ee-11ec-80c6-000c29c303e4</id>
+			<name>Ватрушка с творогом 75 гр.</name>
+		</product>
+		<product>
+			<id>d3796fcd-7ac7-11ed-80d3-000c29c303e4</id>
+			<name>Гребешок с рисом и яйцом 120 гр.</name>
+		</product>
+		<product>
+			<id>9805026b-7aca-11ed-80d3-000c29c303e4</id>
+			<name>Гриньетка с курицей 100 гр.</name>
+		</product>
+		<product>
+			<id>f2b7f4bd-7ac1-11ed-80d3-000c29c303e4</id>
+			<name>Косичка маковая 170 гр</name>
+		</product>
+		<product>
+			<id>8d05c9b3-21ee-11ec-80c6-000c29c303e4</id>
+			<name>Котлета в тесте 100 гр.</name>
+		</product>
+		<product>
+			<id>c1510517-21ee-11ec-80c6-000c29c303e4</id>
+			<name>Кулебяка с курицей 100 гр.</name>
+		</product>
+		<product>
+			<id>0fd3bf53-21ef-11ec-80c6-000c29c303e4</id>
+			<name>Пампушка с чесноком 180 гр. (6 шт.)</name>
+		</product>
+		<product>
+			<id>4ab95e8e-21ef-11ec-80c6-000c29c303e4</id>
+			<name>Пирожок печеный с вишней 75 гр.</name>
+		</product>
+		<product>
+			<id>7447a0d4-21ef-11ec-80c6-000c29c303e4</id>
+			<name>Пирожок печеный с повидлом 75 гр.</name>
+		</product>
+		<product>
+			<id>b5100f0f-21ef-11ec-80c6-000c29c303e4</id>
+			<name>Пирожок с картошкой 75 гр.</name>
+		</product>
+		<product>
+			<id>e71cb3c8-21ef-11ec-80c6-000c29c303e4</id>
+			<name>Пирожок с мясом 75 гр.</name>
+		</product>
+		<product>
+			<id>5cc439f5-21f0-11ec-80c6-000c29c303e4</id>
+			<name>Пирожок с печенью 100 гр.</name>
+		</product>
+		<product>
+			<id>de5c3d7b-21f0-11ec-80c6-000c29c303e4</id>
+			<name>Пирожок с черной смородиной 75 гр.</name>
+		</product>
+		<product>
+			<id>081ef3ab-21f1-11ec-80c6-000c29c303e4</id>
+			<name>Пирожок со свежей капустой 75 гр.</name>
+		</product>
+		<product>
+			<id>407e7564-21f1-11ec-80c6-000c29c303e4</id>
+			<name>Пицца с колбасой 160 гр.</name>
+		</product>
+		<product>
+			<id>737e52f7-21f1-11ec-80c6-000c29c303e4</id>
+			<name>Пицца с курицей 160 гр.</name>
+		</product>
+		<product>
+			<id>9ec5a8a3-21f1-11ec-80c6-000c29c303e4</id>
+			<name>Плюшка с сахаром "Школьная" 75 гр.</name>
+		</product>
+		<product>
+			<id>cec364c8-21f1-11ec-80c6-000c29c303e4</id>
+			<name>Расстегай с яблоком 75 гр.</name>
+		</product>
+		<product>
+			<id>a0530935-7ac9-11ed-80d3-000c29c303e4</id>
+			<name>Рулетик с творогом и изюмом 110 гр.</name>
+		</product>
+		<product>
+			<id>0353c43d-21f2-11ec-80c6-000c29c303e4</id>
+			<name>Свит маковый 200 гр.</name>
+		</product>
+		<product>
+			<id>3b39add9-21f2-11ec-80c6-000c29c303e4</id>
+			<name>Сдоба маковая 100 гр.</name>
+		</product>
+		<product>
+			<id>6ad80c2a-21f2-11ec-80c6-000c29c303e4</id>
+			<name>Сосиска в тесте 100 гр.</name>
+		</product>
+		<product>
+			<id>0683cb70-21f3-11ec-80c6-000c29c303e4</id>
+			<name>Элеш кг.</name>
+		</product>
+		<product>
+			<id>ec63e5be-4bb4-11ee-80d5-000c29c303e4</id>
+			<name>ТЩ Слойка с адыг.сыром и зел.120гр.</name>
+		</product>
+		<product>
+			<id>468541f9-4bb5-11ee-80d5-000c29c303e4</id>
+			<name>ТЩ Слойка с ветчиной и сыром 90гр.</name>
+		</product>
+		<product>
+			<id>9265bf66-4bb5-11ee-80d5-000c29c303e4</id>
+			<name>ТЩ Слойка с вишней 70гр.</name>
+		</product>
+		<product>
+			<id>68769d9c-4bb6-11ee-80d5-000c29c303e4</id>
+			<name>ТЩ Слойка с карт.и грибами 90гр.</name>
+		</product>
+		<product>
+			<id>a27c5237-4bb6-11ee-80d5-000c29c303e4</id>
+			<name>ТЩ Слойка с клубникой 70гр.</name>
+		</product>
+		<product>
+			<id>f8e2e7e6-4bb6-11ee-80d5-000c29c303e4</id>
+			<name>ТЩ Слойка с куриц.и грибами 90гр.</name>
+		</product>
+	</category>
+	<category id="97636fa4-21c6-11ec-80c6-000c29c303e4" name="Кул Салаты">
+		<product>
+			<id>fccb4180-21d3-11ec-80c6-000c29c303e4</id>
+			<name>Винегрет овощной кг.</name>
+		</product>
+		<product>
+			<id>47697047-21d4-11ec-80c6-000c29c303e4</id>
+			<name>Салат "Барракуда" кг.</name>
+		</product>
+		<product>
+			<id>6faa063f-21d4-11ec-80c6-000c29c303e4</id>
+			<name>Салат "Брат Цезаря" кг.</name>
+		</product>
+		<product>
+			<id>13940cfe-21d5-11ec-80c6-000c29c303e4</id>
+			<name>Салат "Весенний" кг.</name>
+		</product>
+		<product>
+			<id>085e12b4-8469-11ee-80d5-000c29c303e4</id>
+			<name>Салат "Гавайский" кг.</name>
+		</product>
+		<product>
+			<id>a9a054e7-21d5-11ec-80c6-000c29c303e4</id>
+			<name>Салат "Генеральский" кг.</name>
+		</product>
+		<product>
+			<id>e4d2812f-21d5-11ec-80c6-000c29c303e4</id>
+			<name>Салат "Голландия" кг.</name>
+		</product>
+		<product>
+			<id>1c0ab56f-21d6-11ec-80c6-000c29c303e4</id>
+			<name>Салат "Гурман" кг.</name>
+		</product>
+		<product>
+			<id>57bd7d7c-21d6-11ec-80c6-000c29c303e4</id>
+			<name>Салат "Дипломат" кг.</name>
+		</product>
+		<product>
+			<id>a71468e2-21d6-11ec-80c6-000c29c303e4</id>
+			<name>Салат "Императрица" кг.</name>
+		</product>
+		<product>
+			<id>ddf422e7-21d6-11ec-80c6-000c29c303e4</id>
+			<name>Салат "Квартет" кг.</name>
+		</product>
+		<product>
+			<id>96611519-b9af-11ed-80d3-000c29c303e4</id>
+			<name>Салат "Корейский" кг.</name>
+		</product>
+		<product>
+			<id>cde1a740-21d7-11ec-80c6-000c29c303e4</id>
+			<name>Салат "Лесная поляна" кг.</name>
+		</product>
+		<product>
+			<id>44cefce3-21d9-11ec-80c6-000c29c303e4</id>
+			<name>Салат "Лисья шубка" кг.</name>
+		</product>
+		<product>
+			<id>89c126dd-21d9-11ec-80c6-000c29c303e4</id>
+			<name>Салат "Мексиканка" кг.</name>
+		</product>
+		<product>
+			<id>03b7a7a7-2203-11ec-80c6-000c29c303e4</id>
+			<name>Салат "Мимоза" кг.</name>
+		</product>
+		<product>
+			<id>d4c81864-6f0d-11ee-80d5-000c29c303e4</id>
+			<name>Салат "Океан" кг.</name>
+		</product>
+		<product>
+			<id>9e0aa47d-21da-11ec-80c6-000c29c303e4</id>
+			<name>Салат "Оливье" кг.</name>
+		</product>
+		<product>
+			<id>21b8708d-b811-11ed-80d3-000c29c303e4</id>
+			<name>Салат "Щетка" кг.</name>
+		</product>
+		<product>
+			<id>27d4e9e6-21db-11ec-80c6-000c29c303e4</id>
+			<name>Салат из капусты с морковью кг.</name>
+		</product>
+		<product>
+			<id>493f63ef-21db-11ec-80c6-000c29c303e4</id>
+			<name>Салат из печени кг.</name>
+		</product>
+		<product>
+			<id>7017f637-21db-11ec-80c6-000c29c303e4</id>
+			<name>Салат из свеклы с черносливом кг.</name>
+		</product>
+		<product>
+			<id>7b4cec2d-21de-11ec-80c6-000c29c303e4</id>
+			<name>Свекла отварная кг.</name>
+		</product>
+		<product>
+			<id>c95c8286-21db-11ec-80c6-000c29c303e4</id>
+			<name>Сельдь под шубой кг.</name>
+		</product>
+		<product>
+			<id>edcb85b7-21db-11ec-80c6-000c29c303e4</id>
+			<name>Смесь для окрошки кг.</name>
+		</product>
+	</category>
+	<category id="0bc76481-21c7-11ec-80c6-000c29c303e4" name="Кулинарные изделия">
+		<product>
+			<id>6976b824-21e1-11ec-80c6-000c29c303e4</id>
+			<name>Блинчики с ветчиной и сыром кг</name>
+		</product>
+		<product>
+			<id>94d5e518-21e1-11ec-80c6-000c29c303e4</id>
+			<name>Блинчики с курицей кг</name>
+		</product>
+		<product>
+			<id>edbd6124-21e1-11ec-80c6-000c29c303e4</id>
+			<name>Блинчики с мясом кг</name>
+		</product>
+		<product>
+			<id>188d8136-21e2-11ec-80c6-000c29c303e4</id>
+			<name>Блинчики с творогом кг</name>
+		</product>
+		<product>
+			<id>4cca7dcb-21e2-11ec-80c6-000c29c303e4</id>
+			<name>Голубцы "По-деревенски" кг.</name>
+		</product>
+		<product>
+			<id>8598015a-a9af-11ec-80cd-000c29c303e4</id>
+			<name>Голубцы постные кг.</name>
+		</product>
+		<product>
+			<id>790e8c79-21e2-11ec-80c6-000c29c303e4</id>
+			<name>Горбуша запеченая с овощами кг.</name>
+		</product>
+		<product>
+			<id>38137715-97e9-11ed-80d3-000c29c303e4</id>
+			<name>Гречаники 100 гр</name>
+		</product>
+		<product>
+			<id>9e7efed0-21e2-11ec-80c6-000c29c303e4</id>
+			<name>Гречка с грибами кг.</name>
+		</product>
+		<product>
+			<id>c3298e41-21e2-11ec-80c6-000c29c303e4</id>
+			<name>Ёжики кг.</name>
+		</product>
+		<product>
+			<id>c1e349f4-1890-11ed-80d0-000c29c303e4</id>
+			<name>Запеканка овощная кг.</name>
+		</product>
+		<product>
+			<id>7db06707-21e3-11ec-80c6-000c29c303e4</id>
+			<name>Зразы картофельные с грибами 100 гр.</name>
+		</product>
+		<product>
+			<id>1fef6f13-21e4-11ec-80c6-000c29c303e4</id>
+			<name>Картофель по-деревенски кг.</name>
+		</product>
+		<product>
+			<id>405ad911-21e4-11ec-80c6-000c29c303e4</id>
+			<name>Колбаски печеночные кг.</name>
+		</product>
+		<product>
+			<id>d1d51a44-9e2a-11ed-80d3-000c29c303e4</id>
+			<name>Комплекс "Гречаник+салат из капусты"</name>
+		</product>
+		<product>
+			<id>7cb540e8-9e26-11ed-80d3-000c29c303e4</id>
+			<name>Комплекс "Гречаник+Соте"</name>
+		</product>
+		<product>
+			<id>b1354d83-9e28-11ed-80d3-000c29c303e4</id>
+			<name>Комплекс "Капуста тушеная+Сосиска"</name>
+		</product>
+		<product>
+			<id>3cd8386d-9e2b-11ed-80d3-000c29c303e4</id>
+			<name>Комплекс "Макароны+Сосиска"</name>
+		</product>
+		<product>
+			<id>e454fd59-10d7-11ee-80d3-000c29c303e4</id>
+			<name>Комплекс "Ленивчики"</name>
+		</product>
+		<product>
+			<id>6f525258-21e4-11ec-80c6-000c29c303e4</id>
+			<name>Котлета Дружба кг.</name>
+		</product>
+		<product>
+			<id>a70fecef-21e4-11ec-80c6-000c29c303e4</id>
+			<name>Котлета из индейки 100 гр.</name>
+		</product>
+		<product>
+			<id>dafbd2ce-21e4-11ec-80c6-000c29c303e4</id>
+			<name>Котлета куриная жареная 80 гр.</name>
+		</product>
+		<product>
+			<id>3eeeff56-21e5-11ec-80c6-000c29c303e4</id>
+			<name>Котлета печеночная кг</name>
+		</product>
+		<product>
+			<id>5a33e856-21e5-11ec-80c6-000c29c303e4</id>
+			<name>Котлета по-киевски кг.</name>
+		</product>
+		<product>
+			<id>164e49f8-8776-11ee-80d5-000c29c303e4</id>
+			<name>Котлета пожарская кг.</name>
+		</product>
+		<product>
+			<id>7fdff57b-21e5-11ec-80c6-000c29c303e4</id>
+			<name>Котлета рыбная жареная 80 гр.</name>
+		</product>
+		<product>
+			<id>d287bfcf-21e5-11ec-80c6-000c29c303e4</id>
+			<name>Котлета свиная жареная 80 гр.</name>
+		</product>
+		<product>
+			<id>247f031f-21e6-11ec-80c6-000c29c303e4</id>
+			<name>Котлеты рубленные куриные кг.</name>
+		</product>
+		<product>
+			<id>97cdc022-21e6-11ec-80c6-000c29c303e4</id>
+			<name>Минтай жареный кг.</name>
+		</product>
+		<product>
+			<id>8ec25594-cc9c-11ed-80d3-000c29c303e4</id>
+			<name>Мойва жареная кг.</name>
+		</product>
+		<product>
+			<id>63172b94-e0e9-11ec-80cd-000c29c303e4</id>
+			<name>Мясо "По-Французски" из курицы кг.</name>
+		</product>
+		<product>
+			<id>1499e612-21e7-11ec-80c6-000c29c303e4</id>
+			<name>Мясо "По-Французски" кг</name>
+		</product>
+		<product>
+			<id>4459f789-21e7-11ec-80c6-000c29c303e4</id>
+			<name>Навага жареная кг.</name>
+		</product>
+		<product>
+			<id>f41c2583-f218-11ec-80ce-000c29c303e4</id>
+			<name>Окрошка 400 гр.</name>
+		</product>
+		<product>
+			<id>c0b45648-9e2b-11ed-80d3-000c29c303e4</id>
+			<name>Пельмени отварные 170 гр.</name>
+		</product>
+		<product>
+			<id>6a2e8cdc-21e7-11ec-80c6-000c29c303e4</id>
+			<name>Отбивная из курицы с ананасом кг.</name>
+		</product>
+		<product>
+			<id>8c4e5289-21e7-11ec-80c6-000c29c303e4</id>
+			<name>Отбивная из окорочка б/к кг.</name>
+		</product>
+		<product>
+			<id>acadc50d-21e7-11ec-80c6-000c29c303e4</id>
+			<name>Отбивная куриная "Батерфляй" кг.</name>
+		</product>
+		<product>
+			<id>cd48d251-21e7-11ec-80c6-000c29c303e4</id>
+			<name>Пангасиус жареный кг.</name>
+		</product>
+		<product>
+			<id>2198e64a-21e8-11ec-80c6-000c29c303e4</id>
+			<name>Печень жареная с луком кг</name>
+		</product>
+		<product>
+			<id>8ef1af05-21e8-11ec-80c6-000c29c303e4</id>
+			<name>Рис с овощами кг.</name>
+		</product>
+		<product>
+			<id>44afb347-6738-11ee-80d5-000c29c303e4</id>
+			<name>Рулет куриный "Праздничный" кг.</name>
+		</product>
+		<product>
+			<id>afff2d80-21e8-11ec-80c6-000c29c303e4</id>
+			<name>Рулет куриный кг.</name>
+		</product>
+		<product>
+			<id>0f40adf9-21e9-11ec-80c6-000c29c303e4</id>
+			<name>Студень свиной кг.</name>
+		</product>
+		<product>
+			<id>2d8a115e-21e9-11ec-80c6-000c29c303e4</id>
+			<name>Сырники 1 кг.</name>
+		</product>
+		<product>
+			<id>483fed83-21e9-11ec-80c6-000c29c303e4</id>
+			<name>Торт печеночный кг.</name>
+		</product>
+		<product>
+			<id>d77cc4aa-c70e-11ed-80d3-000c29c303e4</id>
+			<name>Фрикадельки п/ф 250гр.</name>
+		</product>
+		<product>
+			<id>55b6a6ec-006c-11ee-80d3-000c29c303e4</id>
+			<name>Уши свиные запеченые кг.</name>
+		</product>
+	</category>
+	<category id="faebd38f-21c6-11ec-80c6-000c29c303e4" name="Кул Мясные ПФ Охл">
+		<product>
+			<id>ff85e9cc-21df-11ec-80c6-000c29c303e4</id>
+			<name>Голубцы п/ф кг</name>
+		</product>
+		<product>
+			<id>207a5a64-2aa4-11ec-80c6-000c29c303e4</id>
+			<name>Котлеты рыбные п/ф зам. кг</name>
+		</product>
+		<product>
+			<id>e66600b4-21e0-11ec-80c6-000c29c303e4</id>
+			<name>Крылья маринованые п/ф 100 гр.</name>
+		</product>
+		<product>
+			<id>fccd4c5e-02b6-11ed-80ce-000c29c303e4</id>
+			<name>Печень в сальнике п/ф кг.</name>
+		</product>
+		<product>
+			<id>30a727b0-21e1-11ec-80c6-000c29c303e4</id>
+			<name>Шницель куриный натуральный п/ф охл</name>
+		</product>
+	</category>
+	<category id="e03a88e3-21c6-11ec-80c6-000c29c303e4" name="Кул Куриные разрубы">
+		<product>
+			<id>e39bdbea-21de-11ec-80c6-000c29c303e4</id>
+			<name>Кость куриная кг</name>
+		</product>
+		<product>
+			<id>14e9c3a9-21df-11ec-80c6-000c29c303e4</id>
+			<name>Крыло куриное кг</name>
+		</product>
+		<product>
+			<id>3381d4e3-21df-11ec-80c6-000c29c303e4</id>
+			<name>Окорочок куриный кг</name>
+		</product>
+		<product>
+			<id>5717d2fc-21df-11ec-80c6-000c29c303e4</id>
+			<name>Фарш куриный кг</name>
+		</product>
+		<product>
+			<id>7b7d3ddf-21df-11ec-80c6-000c29c303e4</id>
+			<name>Филе куриное кг</name>
+		</product>
+		<product>
+			<id>11a3b2c5-08ce-11ed-80ce-000c29c303e4</id>
+			<name>Окорочок копченый кг.</name>
+		</product>
+		<product>
+			<id>641a5944-2909-11ed-80d0-000c29c303e4</id>
+			<name>Крыло копченое кг.</name>
+		</product>
+	</category>
+	<category id="cb47ee59-c875-11ed-80d3-000c29c303e4" name="ЗАМОРОЖЕННЫЕ НОГИ">
+		<product>
+			<id>9bf4236f-c7eb-11ed-80d3-000c29c303e4</id>
+			<name>Ножки ЗАДНИЕ ЗАМОРОЖ, кг</name>
+		</product>
+		<product>
+			<id>a86c91bb-c7eb-11ed-80d3-000c29c303e4</id>
+			<name>Ножки ПЕРЕДНИЕ ЗАМОРОЖ, кг</name>
+		</product>
+	</category>
+</template>
